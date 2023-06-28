@@ -1,0 +1,50 @@
+@media (max-width: 1024px){
+.jolibbe-img{
+    width: 250px;
+}
+.footer-top .buttons{
+    font-size: 18px;
+    padding: 14px 27px;
+}
+}
+
+
+
+@media (max-width: 768px){
+
+    .jolibbe-img{
+        width: 230px;
+    }
+    .footer-down .col-2{
+        width:50%;
+        margin-top: 50px;
+    }
+
+   
+}
+
+
+@media (max-width: 630px){
+    .jolibbe-img{
+        width: 210px;
+    }
+
+    .footer-top .buttons{
+        font-size: 16px;
+        padding: 14px 20px;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .jolibbe-img{
+        width: 170px;
+    }
+
+    .footer-top .buttons{
+        font-size: 16px;
+        padding: 14px 20px;
+        text-align: center;
+    }
+}

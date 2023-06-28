@@ -1,0 +1,290 @@
+@media (max-width: 1280px){
+    .logo-image{
+        width: 220px;
+    }
+
+    .menu-link a, .btn{
+        font-size: 19px;
+    }
+
+    .header .buttons{
+        font-size:16px;
+        padding: 12px 25px;
+    }
+
+
+    /* what*/
+
+
+.block {
+    border-top: 7px solid #fcb900;
+    width: 15%;
+  
+   
+  }
+  
+  .blocks{
+    border-top: 7px solid #D6001C;
+    width: 24%;
+  
+  }
+   
+    
+}
+
+@media (max-width: 1024px){
+    .logo-image{
+        width: 190px;
+    }
+
+    .menu-link a, .btn{
+        font-size: 17px;
+    }
+
+    .header .buttons{
+        font-size:14px;
+        padding: 12px 22px;
+    }
+ 
+ 
+    /* what */
+    .block {
+        border-top: 7px solid #fcb900;
+        width: 19%;
+      
+       
+      }
+      
+      .blocks{
+        border-top: 7px solid #D6001C;
+        width: 28%;
+      
+      }
+
+      
+
+
+
+
+}
+
+
+
+
+@media (max-width: 768px){
+.close{
+    display: none ;
+}
+
+.logo-image{
+    width: 230px;
+}
+
+
+.app-open{
+    display: block !important;
+    
+   }
+
+   .header .buttons{
+    font-size:20px;
+    padding: 15px 30px;
+}
+
+.menu-link a{
+    font-size: 27px;
+    color: #000;
+    font-weight: 700;
+    
+}
+
+.header, .header.active{
+    padding: 30px 0px;
+}
+
+.app__navbar-smallscreen-overlay{
+  
+    top:16.7% !important; 
+
+  }
+
+
+/* feature-wrapper*/
+
+.featured h1{
+    font-size:2.0rem;
+}
+  .featured-4{
+    display: block;
+  }
+  
+  .featured-3, .featured-4{
+    margin-top: 50px;
+  }
+
+.feature1{
+    width: 50% !important;
+}
+
+ /*what*/
+
+ .what-wrapper .col-6{
+    width: 100% !important;
+ }
+
+ .what-title h1, .what-title-1 h1{
+    text-align: center;
+ }
+
+ .block {
+    border-top: 7px solid #fcb900;
+    width:90%;
+    
+  
+   
+  }
+  
+  .blocks{
+    border-top: 7px solid #D6001C;
+    width: 100%;
+  
+  }
+
+
+
+}
+
+
+
+
+@media (max-width: 630px){
+
+  
+    .logo-image{
+        width: 190px;
+    }
+
+    
+
+    .header .buttons{
+        font-size:14px;
+        padding: 12px 22px;
+    }
+.app-close, .app-open{
+    font-size: 33px;
+    cursor: pointer;
+}
+.app__navbar-smallscreen-overlay{
+  
+    top:14.2% !important; 
+
+  }
+/* feature-wrapper*/
+
+.featured-img {
+    width:95%;
+}
+
+.featured h1{
+    font-size:1.9rem;
+}
+
+  
+.feature-wrapper .featured-title h2{
+font-size: 21px !important;
+}
+
+.feature-wrapper .featured-p p{
+font-size: 16px !important;
+}
+
+.feature-wrapper .promo-button {
+    font-size: 25px;
+    padding: 13px 25px;
+}
+
+
+  
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 480px) {
+   
+    .header .buttons{
+        font-size:14px;
+        padding: 12px 22px;
+    }
+.app-close, .app-open{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+.logo-image{
+    width: 130px;
+}
+
+.header, .header.active{
+    padding:30px 0px;
+}
+
+.app__navbar-smallscreen-overlay{
+  
+    top:14.2% !important; 
+
+  }
+
+  .menu-link a{
+    font-size: 20px;
+  }
+
+
+  /* feature-wrapper*/
+
+.featured-img {
+    width:97%;
+}
+
+.featured h1{
+    font-size:1.5rem;
+}
+
+  
+.feature-wrapper .featured-title h2{
+font-size: 17px !important;
+}
+
+.feature-wrapper .featured-p p{
+font-size: 12px !important;
+}
+
+.feature-wrapper .promo-button {
+    font-size: 18px;
+    padding: 12px 23px;
+}
+
+.featured-1, .featured-2, .featured-3, .featured-4{
+    height: 40vh;
+}
+  
+}
+  

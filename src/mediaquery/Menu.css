@@ -1,0 +1,190 @@
+@media (max-width: 1280px){
+
+
+    .right-content-title{
+        height: 59vh;
+      }
+
+      .right-content-title h1{
+        font-size: 1.8rem !important;
+      }
+      .right-p{
+        font-size: 18px;
+        line-height:27px;
+      }
+
+      /* */
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 1024px){
+
+    .menu-wrapper .col-2{
+        width: 100%;
+    }
+    .menu-wrapper .col-9{
+        width: 100%;
+    }
+
+    .menu-wrapper .col-9 .col-4{
+        width: 100%;
+    
+}
+.menu-single{
+    display: flex;
+    flex-direction: column;
+}
+.menu-right{
+    margin-top: 50px;
+    
+}
+
+.right-content-title{
+    height:auto;
+  }
+
+  .right-content-title h1{
+    font-size: 2.3rem !important;
+    
+  }
+  .right-p{
+    font-size: 20px;
+    line-height:27px;
+    margin-bottom: 50px;
+  }
+
+  .right-img-1 img{
+    height: auto;
+    width: 500px;
+  }
+
+  /* */
+
+  .menu-none{
+    display:none !important ;
+  }
+
+  .menu-hidden{
+    display: block !important;
+  }
+}
+
+
+@media (max-width: 768px){
+    .right-content-title h1{
+        font-size: 2.0rem !important;
+        
+      }
+      .right-p{
+        font-size: 18px;
+        line-height:23px;
+        margin-bottom: 50px;
+      }
+    
+      .right-img-1 img{
+        height: auto;
+        width: 400px;
+      }
+
+      .menu-single .buttons{
+        font-size: 18px;
+        padding: 14px 28px;
+      }
+
+
+
+      /* */
+
+      .menu-hidden-content .menu-img{
+        width: 85px;
+      }
+}
+
+
+
+
+
+
+
+
+@media (max-width: 630px){
+    .right-content-title h1{
+        font-size: 1.8rem !important;
+        
+      }
+      .right-p{
+        font-size: 17px;
+        line-height:23px;
+        margin-bottom: 50px;
+      }
+      .right-img-1{
+        margin-bottom: 30px;
+      }
+      .right-img-1 img{
+        height: auto;
+        width: 350px;
+      }
+
+      .menu-single .buttons{
+        font-size: 17px;
+        padding: 14px 28px;
+      }
+
+      /* */
+
+      .menu-hidden-content .menu-img{
+        width: 80px;
+
+      }
+
+      .menu-hidden-content p{
+        font-size: 14px;
+      }
+}
+
+
+
+
+@media (max-width: 480px){
+    .right-content-title h1{
+        font-size: 1.5rem !important;
+        
+      }
+      .right-p{
+        font-size: 16px;
+        line-height:23px;
+        margin-bottom: 50px;
+      }
+      .right-img-1{
+        margin-bottom: 30px;
+      }
+      .right-img-1 img{
+        height: auto;
+       width: auto;
+      }
+
+      .menu-single .buttons{
+        font-size: 16px;
+        padding: 12px 25px;
+      }
+
+
+      /* */
+
+      .menu-hidden-content .menu-img{
+        width: 75px;
+
+      }
+
+      .menu-hidden-content p{
+        font-size: 13px;
+      }
+}

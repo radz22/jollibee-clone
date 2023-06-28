@@ -1,0 +1,400 @@
+@media (max-width: 1280px){
+
+    .deliver-wrapper .content h1{
+        font-size: 41px;
+    }
+
+    .deliver-img {
+        width: 80%;
+        margin-left: 44px;
+    }
+
+
+    /* */
+    .deliveries-wrapper{
+        height: 65vh;
+      }
+
+      .deliveries-single-img {
+        width: 110px;
+      }
+
+      .deliveries-single-image{
+        width: 200px;
+      }
+
+      .deliveries-single-title h1{
+        font-size: 27px;
+      }
+      .border-img{
+        width: 270px;
+      }
+
+      .deliveries-wrapper .buttons{
+        font-size: 18px;
+        padding: 14px 28px;
+      }
+      .appsstore-img{
+        width: 150px;
+      }
+
+      /* */
+
+      .question-title h1{
+        font-size: 21px;
+      }
+}
+
+
+
+@media (max-width: 1024px){
+    .deliver-wrapper .content h1{
+        font-size: 35px;
+    }
+
+    .deliver-img {
+        width: 80%;
+        margin-left: 44px;
+    }
+
+    .deliver-title h1{
+        font-size: 31px;
+    }
+
+    .deliver-p p{
+        font-size: 18px;
+    }
+
+    .delivery-wrapper .deliver-button{
+        font-size: 20px;
+        padding: 13px 20px;
+        width: 170px;
+       
+    }
+       /* */
+       .deliveries-wrapper{
+        height: 64vh;
+      }
+
+      .deliveries-single-img {
+        width: 105px;
+      }
+
+      .deliveries-single-image{
+        width: 200px;
+      }
+
+      .deliveries-single-title h1{
+        font-size: 25px;
+      }
+      .border-img{
+        width: 250px;
+      }
+
+      .deliveries-wrapper .buttons{
+        font-size: 17px;
+        padding: 13px 26px;
+      }
+
+      .appsstore-img{
+        width: 120px;
+      }
+
+        /* */
+        .question-front h1{
+            font-size: 33px;
+        }
+
+        .question-title h1{
+            font-size: 19px;
+          }
+
+          .question-content-title h2, .question-content-bottom ul li{
+            font-size: 18px;
+          }
+
+          .red{
+            padding:21px 30px;
+          }
+
+}
+
+
+
+
+
+
+@media (max-width: 768px){
+   .delivery-wrapper .col-6{
+    width: 100%;
+    
+   }
+
+   .deliver-content{
+    margin-top: 100px;
+   }
+
+   .deliver-wrapper .content h1{
+    font-size: 35px;
+    
+}
+
+.deliver-img {
+    width: 70%;
+    margin-left: 50px;
+}
+
+.deliver-title h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+.deliver-p p{
+    font-size: 21px;
+    text-align: center;
+}
+
+.deliver-content .button{
+    text-align: center;
+    width: 100%;
+}
+
+.deliver-content .deliver-button{
+    font-size: 20px;
+    padding: 14px 20px;
+     
+}
+
+.appsstore-img{
+    width: 190px;
+  }
+    /* */
+
+     .mobile-app-wrapper .col-4{
+        width: 100%;
+        padding: 5px 40px;
+    }
+
+    .deliveries-wrapper{
+        height: 70vh;
+        margin-top: 55px;
+      }
+
+      .deliveries-single-img {
+        width: 180px;
+      }
+
+      .deliveries-single-image{
+        width: 270px;
+      }
+
+      .deliveries-single-title h1{
+        font-size: 32px;
+      }
+      .border-img{
+        width: 310px;
+      }
+      .deliveries-wrapper p{
+        font-size: 22px;
+      }
+
+      .deliveries-wrapper .buttons{
+        font-size: 20px;
+        padding: 15px 30px;
+      }
+
+
+      
+        /* */
+        .question-front h1{
+            font-size: 25px;
+        }
+
+        .question-title h1{
+            font-size: 16.8px;
+          }
+
+          .question-content-title h2, .question-content-bottom ul li{
+            font-size: 16px;
+          }
+
+          .red{
+            padding:20px 31px;
+          }
+
+}
+
+
+
+
+
+
+@media (max-width: 630px){
+    .deliver-wrapper .content h1{
+        font-size: 35px;
+        
+    }
+    
+    .deliver-img {
+        width: 72%;
+        margin-left: 55px;
+    }
+    
+    .deliver-title h1{
+        font-size: 36px;
+        text-align: center;
+    }
+    
+    .deliver-p p{
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    .deliver-content .button{
+        text-align: center;
+        width: 100%;
+    }
+    
+    .deliver-content .deliver-button{
+        font-size: 18px;
+        padding: 12px 19px;
+             
+    }
+
+    /* */
+
+   
+
+      .deliveries-single-img {
+        width: 130px;
+      }
+
+      .deliveries-single-image{
+        width: 245px;
+      }
+
+      .deliveries-single-title h1{
+        font-size: 27px;
+      }
+      .border-img{
+        width: 250px;
+      }
+      .deliveries-wrapper p{
+        font-size: 19px;
+      }
+
+      .deliveries-wrapper .buttons{
+        font-size: 19px;
+        padding: 14px 28px;
+      }
+
+      
+      
+        /* */
+        .question-front h1{
+            font-size: 22px;
+        }
+
+        .question-title h1{
+            font-size: 16px;
+          }
+
+          .question-content-title h2, .question-content-bottom ul li{
+            font-size: 14.8px;
+          }
+
+          .red{
+            padding:17px 25px;
+            width: 180%;
+          }
+
+
+
+
+}
+
+
+@media (max-width: 480px){
+    .deliver-wrapper .content h1{
+        font-size: 27px;
+        
+    }
+    
+    .deliver-img {
+        width: 80%;
+        margin-left: 55px;
+    }
+    
+    .deliver-title h1{
+        font-size: 34px;
+        text-align: center;
+    }
+    
+    .deliver-p p{
+        font-size: 17px;
+        text-align: center;
+    }
+    
+    .deliver-content .button{
+        text-align: center;
+        width: 100%;
+    }
+    
+    .deliver-content .deliver-button{
+        font-size: 16px;
+        padding: 12px 16px;
+        
+    }
+
+    .appsstore-img{
+        width: 140px;
+      }
+           /* */
+
+   
+
+      .deliveries-single-img {
+        width: 115px;
+      }
+
+      .deliveries-single-image{
+        width: 235px;
+      }
+
+      .deliveries-single-title h1{
+        font-size: 24px;
+      }
+      .border-img{
+        width: 220px;
+      }
+      .deliveries-wrapper p{
+        font-size: 17px;
+      }
+
+      .deliveries-wrapper .buttons{
+        font-size: 17px;
+        padding: 12px 23px;
+      }
+
+
+
+
+
+
+      .question-front h1{
+        font-size: 19px;
+    }
+
+    .question-title h1{
+        font-size: 15px;
+      }
+
+      .question-content-title h2, .question-content-bottom ul li{
+        font-size: 14px;
+      }
+
+      .red{
+        padding:15px 22px;
+        width: 200%;
+      }
+}
